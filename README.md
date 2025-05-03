@@ -9,7 +9,10 @@ This Python script calculates the variance and standard deviation of a list of n
   - Mean
   - Variance
   - Standard Deviation
-
+   -mode
+   -Correlation
+   -Median
+   -Range
 ## 📌 Example
 
 If input is:
